@@ -44,9 +44,9 @@ body{
 
 #centereddiv {
     position: absolute;
-    z-index: 15;
+    <!-- z-index: 15; -->
     left: 50%;
-    <!--margin: -100px 0 0 -150px;-->
+    <!-- margin: -100px 0 0 -150px;-->
 }
 
 #nav{
