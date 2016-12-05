@@ -44,7 +44,7 @@ body{
 
 #centereddiv {
     position: absolute;
-    <!-- z-index: 15; -->
+    z-index: 2;
     left: 50%;
     <!-- margin: -100px 0 0 -150px;-->
 }
