@@ -47,17 +47,20 @@ body{
     top: 10px;
     z-index: 15;
     left: 50%;
-    margin: 0 0 0 -200px;
+    margin: 0 0 0 -250px;
 }
 
 #centereddiv1 {
-    position: absolute;
+    position: relative;
     top: 10px;
     z-index: 15;
     left: 50%;
     margin: 0 0 0 -400px;
 }
-
+#leftdiv {
+    position: absolute;
+    top: 3cm;
+}
 #nav{
     display: inline-block;
     text-align: right;
