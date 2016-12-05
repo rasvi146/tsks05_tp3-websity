@@ -42,7 +42,7 @@ body{
     display: inline-block;
 }
 
-#center {
+div.center {
     text-align: center;
 }
 
