@@ -162,6 +162,12 @@ body {font-family: Verdana,sans-serif;margin:0}
     animation-duration: 1.5s;
 }
 
+.center {
+    text-align: center;
+    border: 3px box-shadow green;
+}
+
+
 @-webkit-keyframes fade {
     from {opacity: .4} 
     to {opacity: 1}
