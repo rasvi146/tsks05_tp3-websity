@@ -50,6 +50,14 @@ body{
     margin: 0 0 0 -200px;
 }
 
+#centereddiv1 {
+    position: absolute;
+    top: 10px;
+    z-index: 15;
+    left: 50%;
+    margin: 0 0 0 -400px;
+}
+
 #nav{
     display: inline-block;
     text-align: right;
@@ -77,6 +85,7 @@ body{
     background: white;
     padding: 20px;
     clear: both;
+    max-width: 20cm;
 }
 #footer{
     border-bottom: 1px #ccc solid;
