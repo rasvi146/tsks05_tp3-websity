@@ -16,39 +16,22 @@ body {
 
 #centereddiv {
 /*    top: 10px;
-    z-index: 15;
+    z-index: 15; */
     margin-left: auto;
     margin-right: auto;*/
 }
 
-#centereddiv1 {
-  /*   position: relative;
-    top: 10px;
-    z-index: 15;
-    left: 50%;
-    margin: 0 0 0 -400px;*/
-}
-
-#nav{
-/*    display: inline-block;
-    text-align: right;
-    float: right*/;
-}
-#nav ul{}
 #nav ul li{
     display: inline-block;
-}
-#nav ul li button a
-{
-	padding: 20px;
 }
 
 #content{
     margin: 0 0;
     background: white;
     padding: 20px;
-    max-width: 20cm;
-    border-radius: 5px;
+    border-radius: 10px;
+    border:;
+    box-shadow: 20px 20px 10px #888888;
 }
 
 .myButton {
