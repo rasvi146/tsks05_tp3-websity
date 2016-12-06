@@ -15,10 +15,13 @@ body {
 }
 
 #centereddiv {
-/*    top: 10px;
-    z-index: 15; */
     margin-left: auto;
-    margin-right: auto;*/
+    margin-right: auto;
+    text-align: center;
+}
+
+#nav ul{
+	padding: 0;
 }
 
 #nav ul li{
